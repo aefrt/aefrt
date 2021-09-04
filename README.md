@@ -8,5 +8,5 @@
 
 #### Проекты:
 
-- [Проект по прикладной топологии](https://github.com/aefrt/project-topology)
+- [Топологические методы в анализе данных](https://github.com/aefrt/project-topology)
 - ...
