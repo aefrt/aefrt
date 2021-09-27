@@ -11,7 +11,7 @@
 #### Проекты:
 
 - [Топологические методы в анализе данных](https://github.com/aefrt/project-topology)
-- [Оптимизация продаж в сети](https://github.com/aefrt/database-theory)
+- [Оптимизация продаж в e-commerce](https://github.com/aefrt/database-theory)
 - ...
 
 Telegram: ... (t.me/...)
