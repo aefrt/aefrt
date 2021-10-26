@@ -2,7 +2,7 @@
 
 Копчев Владислав, 3 курс ФКН ВШЭ
 
-Интересы: data science, retail & e-commerce analytics, web analytics, алгоритмическая топология
+Интересы: data science, web analytics, алгоритмическая топология
 
 #### Технические навыки:
 
