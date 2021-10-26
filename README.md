@@ -12,7 +12,7 @@
 
 - [Топологические методы в анализе данных](https://github.com/aefrt/project-topology)
 - [Оптимизация продаж в e-commerce](https://github.com/aefrt/database-theory)
-- [Анализ данных в бизнесе](...)
+- [Анализ данных в бизнесе (NaN)](...)
 
 Telegram: ... (t.me/...)
 
