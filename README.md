@@ -2,7 +2,7 @@
 
 Копчев Владислав, 3 курс ФКН ВШЭ
 
-Интересы: data science, ...
+Интересы: data science, retail, e-commerce, web analytics алгоритмическая топология
 
 #### Технические навыки:
 
@@ -10,10 +10,8 @@
 
 #### Проекты:
 
-- [Топологические методы в анализе данных](https://github.com/aefrt/project-topology)
+- [Методы алгоритмической топологии в анализе данных](https://github.com/aefrt/project-topology)
 - [Оптимизация продаж в e-commerce](https://github.com/aefrt/database-theory)
-- [Анализ данных в бизнесе (NaN)](...)
+- [Анализ данных в бизнесе (NaN; e-commerce / retail / web analytics)](...)
 
-Telegram: ... (t.me/...)
-
-Kaggle: ... (kaggle.com/...)
+Telegram: [@aefrt](t.me/aefrt)
