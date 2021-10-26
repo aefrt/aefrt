@@ -2,7 +2,7 @@
 
 Копчев Владислав, 3 курс ФКН ВШЭ
 
-Интересы: data science, web analytics, алгоритмическая топология
+Интересы: data science, web analytics, algorithmic topology
 
 #### Технические навыки:
 
