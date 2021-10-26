@@ -18,4 +18,6 @@
 - [Оптимизация продаж в e-commerce](https://github.com/aefrt/database-theory)
 - [Анализ данных в бизнесе (NaN; e-commerce / retail / web analytics)](...)
 
+#### Контакты:
+
 Telegram: [@aefrt](https://t.me/aefrt)
