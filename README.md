@@ -6,7 +6,12 @@
 
 #### Технические навыки:
 
-- ...
+- Python (pandas, numpy, scikit-learn, matplotlib, seaborn, beautiful soup)
+- Assembler
+- Web analytics (Google Analytics, Yandex.Metrics
+- SQL, ETL, OLAP
+- Excel, Tableau
+- C/C++, HTML/CSS, bash, git
 
 #### Проекты:
 
