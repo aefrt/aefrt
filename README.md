@@ -9,7 +9,7 @@
 - Python (pandas, numpy, scikit-learn, matplotlib, seaborn, beautifulsoup4, pytorch)
 - Web analytics (Google Analytics, Yandex.Metrics)
 - SQL, ETL, OLAP
-- Excel, Tableau
+- Excel, Tableau, Power BI
 - C/C++, HTML/CSS, bash, git
 
 #### Проекты:
