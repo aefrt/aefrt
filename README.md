@@ -15,8 +15,7 @@
 #### Проекты:
 
 - [Методы алгоритмической топологии в анализе данных](https://github.com/aefrt/project-topology)
-- [Сбор данных для рекомендательной системы продуктов онлайн-магазинов](https://github.com/aefrt/database-theory)
-- Social network analysis
+- [Рекомендательная система продуктов онлайн-магазинов](https://github.com/aefrt/database-theory)
 - АДБ: что-то про e-commerce / retail — розничные сети
 
 (добавить норм описание сделанного, рассказ как в отчете DL)
