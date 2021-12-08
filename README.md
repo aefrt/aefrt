@@ -2,11 +2,11 @@
 
 Копчев Владислав, 3 курс ФКН ВШЭ
 
-Интересы: data science, web analytics, algorithmic topology
+Интересы: data mining, web analytics
 
 #### Технические навыки:
 
-- Python (pandas, numpy, scikit-learn, matplotlib, seaborn, beautifulsoup4, pytorch)
+- Python (pandas, numpy, scikit-learn, matplotlib, seaborn, beautifulsoup4, pytorch, networkx)
 - Web analytics (Google Analytics, Yandex.Metrics)
 - SQL, ETL, OLAP
 - Excel, Tableau, Power BI
