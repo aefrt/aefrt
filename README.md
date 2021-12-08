@@ -6,7 +6,7 @@
 
 #### Технические навыки:
 
-- Python (pandas, numpy, scikit-learn, matplotlib, seaborn, beautifulsoup4, pytorch, networkx)
+- Python (pandas, numpy, scikit-learn, matplotlib, seaborn, beautifulsoup4, pytorch, networkx, gudhi)
 - Web analytics (Google Analytics, Yandex.Metrics)
 - SQL, ETL, OLAP
 - Excel, Tableau, Power BI
