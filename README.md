@@ -7,8 +7,8 @@
 #### Технические навыки:
 
 - Анализ данных: Python, SQL
-- Визуализация данных: SAS, Tableau, Excel
-- Разработка: C/C++, HTML, VS Code, PyCharm, vim, bash
+- Визуализация данных: SAS Viya, Tableau, Excel
+- Разработка: C/C++, Java, HTML/CSS, VS Code, PyCharm, vim, bash, git
 
 #### Проекты:
 
