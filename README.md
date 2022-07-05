@@ -8,7 +8,7 @@
 
 - Анализ данных: Python, SQL
 - Визуализация данных: SAS Viya, Tableau, Excel
-- Разработка: C/C++, Java, HTML/CSS, VS Code, PyCharm, vim, bash, git
+- Разработка: C/C++, Java, bash
 
 #### Проекты:
 
