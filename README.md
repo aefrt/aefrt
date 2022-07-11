@@ -8,9 +8,11 @@
 
 - Анализ данных: Python, SQL
 - Визуализация данных: SAS, Tableau, Excel
-- Разработка: C/C++, Java, bash
+- Разработка: C/C++, Kotlin, bash, git
 
 #### Проекты:
+
+Доделать описание:
 
 - [Методы алгоритмической топологии в анализе данных](https://github.com/aefrt/project-topology)
 - [Рекомендательная система товаров на основе NLP и кластеризации](https://github.com/aefrt/database-theory)
