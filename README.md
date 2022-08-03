@@ -8,7 +8,7 @@
 
 - Анализ данных: Python (pandas, numpy, scikit-learn, matplotlib, seaborn, beautifulsoup4, pytorch, networkx, gudhi, scipy, statsmodels), SQL (psql)
 - Визуализация данных: SAS, Tableau, Excel
-- Разработка: C/C++, HTML, VS Code, PyCharm, vim, bash
+- Разработка: C/C++, Kotlin, HTML, VS Code, PyCharm, vim, bash
 
 #### Проекты:
 
