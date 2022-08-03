@@ -14,7 +14,7 @@
 
 - [Методы алгоритмической топологии в анализе данных](https://github.com/aefrt/project-topology)
 - [Рекомендательная система продуктов онлайн-магазинов](https://github.com/aefrt/database-theory)
-- [Извлечение сущностей из сообщений о решениях](https://github.com/aefrt/entities-project)
+- [Автоматизация работы с документами: извлечение сущностей и фактов из сообщений о раскрытии](https://github.com/aefrt/entities-project)
 - [Примеры домашних заданий](https://github.com/aefrt/sas-homework-3rd-course)
 
 #### Контакты:
