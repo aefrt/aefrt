@@ -19,5 +19,4 @@
 
 #### Контакты:
 
-- Telegram: [@aefrt](https://t.me/aefrt)
 - E-mail: vokopchev@edu.hse.ru
