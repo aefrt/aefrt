@@ -12,7 +12,7 @@
 
 #### Проекты:
 
-- [Методы алгоритмической топологии в анализе данных](https://github.com/aefrt/project-topology)
+- [Основы прикладной топологии](https://github.com/aefrt/project-topology)
 - [Алгоритмы сбора и анализа текстовых описаний продуктов](https://github.com/aefrt/database-theory)
 - [Автоматизация работы с документами](https://github.com/aefrt/ner-disclosure)
 - [Примеры домашних заданий](https://github.com/aefrt/sas-homework-3rd-course)
