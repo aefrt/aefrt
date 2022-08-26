@@ -4,6 +4,12 @@
 
 Интересы: algorithmic topology, data science
 
+#### Опыт работы:
+
+- Учебный ассистент курса <<Calculus II>>, НИУ ВШЭ
+
+- Стажер-аналитик в КонсультантПлюс
+
 #### Технические навыки:
 
 - Анализ данных: Python (pandas, numpy, scikit-learn, matplotlib, seaborn, beautifulsoup4, pytorch, networkx, gudhi, scipy, statsmodels, selenium, lxml, psycopg2, requests, natasha), SQL (psql)
