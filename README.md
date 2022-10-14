@@ -1,19 +1,19 @@
 ### Портфолио
 
-Копчев Владислав, 3 курс ФКН ВШЭ
+Копчев Владислав, 4 курс ФКН ВШЭ
 
 Интересы: algorithmic topology, data science
 
 #### Опыт работы:
 
-- Учебный ассистент курса Calculus 2, НИУ ВШЭ
+- Учебный ассистент курсов "Calculus 2" и "Математический анализ 2", НИУ ВШЭ
 
-- Стажер-аналитик в КонсультантПлюс
+- Стажер-аналитик и младший аналитик в КонсультантПлюс
 
 #### Технические навыки:
 
 - Анализ данных: Python (pandas, numpy, scikit-learn, matplotlib, seaborn, beautifulsoup4, pytorch, networkx, gudhi, scipy, statsmodels, selenium, lxml, psycopg2, requests, natasha), SQL (psql)
-- Визуализация данных: SAS, Tableau, Excel
+- Визуализация данных: SAS, Tableau, Excel, Redash
 - Разработка: C/C++, Kotlin, HTML, VS Code, PyCharm, vim, bash
 
 #### Проекты:
