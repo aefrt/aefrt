@@ -14,7 +14,7 @@
 
 - Анализ данных: Python (pandas, numpy, scikit-learn, matplotlib, seaborn, beautifulsoup4, pytorch, networkx, gudhi, scipy, statsmodels, selenium, lxml, psycopg2, requests, natasha), SQL (psql, mysql, hive)
 - Визуализация данных: SAS, Tableau, Excel, Redash
-- Разработка: C/C++, Kotlin, HTML, VS Code, PyCharm, vim, bash, git
+- Разработка: C/C++, Kotlin, VS Code, PyCharm, vim, bash, git
 
 #### Проекты:
 
