@@ -2,7 +2,7 @@
 
 Копчев Владислав, 4 курс ФКН ВШЭ
 
-Интересы: algorithmic topology, data science
+Интересы: analytics, data science
 
 #### Опыт работы:
 
