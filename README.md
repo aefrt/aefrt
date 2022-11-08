@@ -23,7 +23,7 @@
 - [Основы прикладной топологии](https://github.com/aefrt/project-topology)
 - [Алгоритмы сбора и анализа текстовых описаний продуктов](https://github.com/aefrt/database-theory)
 - [Автоматизация работы с документами](https://github.com/aefrt/ner-disclosure)
-- [Отбор персонала с помощью ML]
+- [Отбор персонала с помощью ML](https://github.com/aefrt/automatization-recruiting)
 - [Примеры домашних заданий](https://github.com/aefrt/sas-homework-3rd-course)
 
 #### Контакты:
