@@ -1,6 +1,6 @@
 ### Портфолио
 
-Интересы: analytics, data science, text mining, algoritghmic topology, mathematics 
+Интересы: analytics, data science, text mining, algorithmic topology, mathematics 
 
 #### Образование:
 
