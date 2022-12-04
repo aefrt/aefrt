@@ -16,7 +16,7 @@
 
 #### Технические навыки:
 
-- Анализ данных: Python (pandas, numpy, scikit-learn, matplotlib, seaborn, beautifulsoup4, pytorch, networkx, gudhi, scipy, statsmodels, selenium, lxml, psycopg2, requests, natasha), SQL (psql, mysql, hiveql)
+- Анализ данных: Python (pandas, numpy, scikit-learn, matplotlib, seaborn, plotly, beautifulsoup4, pytorch, networkx, gudhi, scipy, statsmodels, selenium, lxml, psycopg2, requests, natasha), SQL (psql, mysql, hiveql)
 - Визуализация данных: SAS, Tableau, Excel, Redash
 - Разработка: C/C++, Kotlin, VS Code, PyCharm, CLion, vim, bash, git
 
