@@ -2,9 +2,9 @@
 
 #### О себе:
 
-Интересы: аналитика, машинное обучение, data science, статистика, математика
+- Интересы: аналитика, машинное обучение, data science, статистика, математика
 
-[Актуальное CV](https://github.com/aefrt/sas-homework-3rd-course/blob/main/CV.pdf)
+- [Актуальное CV](https://github.com/aefrt/sas-homework-3rd-course/blob/main/CV.pdf)
 
 #### Образование:
 
