@@ -33,4 +33,4 @@
 #### Контакты:
 
 - E-mail: vokopchev@edu.hse.ru
-- Telegram: [@aefrt](t.me/aefrt)
+- Telegram: [@aefrt](https://t.me/aefrt)
