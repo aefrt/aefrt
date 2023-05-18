@@ -4,6 +4,8 @@
 
 Интересы: аналитика, машинное обучение, data science, статистика, математика
 
+[Актуальное CV](https://github.com/aefrt/sas-homework-3rd-course/blob/main/CV.pdf)
+
 #### Образование:
 
 - Бакалавриат "Прикладная математика и информатика", ФКН ВШЭ
@@ -31,3 +33,4 @@
 #### Контакты:
 
 - E-mail: vokopchev@edu.hse.ru
+- Telegram: t.me/aefrt
