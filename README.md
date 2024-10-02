@@ -12,7 +12,7 @@
 - [Рекомендательная система на базе кластеризации](https://github.com/aefrt/database-theory)
 - [Автоматизация работы с документами](https://github.com/aefrt/ner-disclosure)
 - [Отбор персонала с помощью ML](https://github.com/aefrt/automatization-recruiting)
-- [Примеры домашних заданий](https://github.com/aefrt/sas-homework-3rd-course)
+- [Примеры домашних заданий](todo)
 
 #### Контакты:
 
