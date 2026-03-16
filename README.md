@@ -2,7 +2,7 @@
 
 #### О себе:
 
-- [Актуальное CV](https://github.com/aefrt/sas-homework-3rd-course/blob/main/CV.pdf)
+- [Актуальное CV](https://github.com/aefrt/sas-homework-3rd-course/blob/main/cv.pdf)
 
 #### Проекты:
 
