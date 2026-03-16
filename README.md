@@ -2,11 +2,9 @@
 
 #### О себе:
 
-- Интересы: аналитика, машинное обучение, data science, статистика, математика
+- [Актуальное CV](https://github.com/aefrt/sas-homework-3rd-course/blob/main/CV.pdf)
 
-- [Актуальное CV](TODO)
-
-#### Проекты:
+#### Проекты (бакалавриат):
 
 - [Топология, музыка и анализ данных](https://github.com/aefrt/project-topology)
 - [Рекомендательная система на базе кластеризации](https://github.com/aefrt/database-theory)
